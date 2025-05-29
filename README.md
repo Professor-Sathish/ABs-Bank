@@ -2,7 +2,7 @@
 
 A full-stack bank account management system with a modern web interface built using Flask (Python) backend and a C program for core banking operations. Features a beautiful, responsive UI with real-time account management capabilities.
 
-![Bank Account Manager Interface](screenshot.png)
+![Bank Account Manager Interface](screenshot.jpg)
 
 ## ✨ Features
 
